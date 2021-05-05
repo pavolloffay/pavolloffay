@@ -1,4 +1,4 @@
-#### Personal philosophies
+#### Personal philosophies:
 
 * Do not overthink 
 * Assume positive intent 
