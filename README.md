@@ -1,4 +1,9 @@
-### Hi there 👋
+#### Personal philosophies
+
+* Do not overthink 
+* Assume positive intent 
+* Be bold, unicorn effect, do your best
+* Set your boundaries
 
 <!--
 **pavolloffay/pavolloffay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
