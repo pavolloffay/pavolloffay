@@ -19,3 +19,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+#### Follow me:
+
+* Blog [medium.com/ploffay](https://ploffay.medium.com/)
+* Twitter [twitter.com/ploffay](https://twitter.com/ploffay)
+* Linkedin [linkedin/in/pavolloffay](https://www.linkedin.com/in/pavolloffay/)
+* Youtube [youtube.com/c/PavolLoffay](https://www.youtube.com/c/PavolLoffay)
